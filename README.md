@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sid862
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Interactive Projects
+Hi, I’m Siddhanth who is currently a engineering student focussing on learning and building projects in Web3. My repositories speaks for itself.!
 
 <!---
 sid862/sid862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
